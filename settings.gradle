@@ -1,0 +1,7 @@
+include ':app'
+
+include ':api'
+
+include ':module'
+include ':module:module1'
+include ':module:module2'

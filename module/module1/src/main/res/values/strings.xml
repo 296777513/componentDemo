@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <string name="module1_1">I\'m the module1\'s data, First </string>
+
+    <string name="module1_2">I\'m the module1\'s data, Second </string>
+
+    <string name="module1_3">I\'m the module1\'s data, Third </string>
+
+</resources>
